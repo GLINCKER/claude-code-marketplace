@@ -1,0 +1,13 @@
+{
+  "name": "glincker-marketplace",
+  "owner": {
+    "name": "GLINCKER",
+    "email": "marketplace@glincker.com"
+  },
+  "metadata": {
+    "description": "Community-driven Claude Code marketplace featuring curated skills, tools, and extensions",
+    "version": "1.0.0",
+    "pluginRoot": "skills"
+  },
+  "plugins": []
+}
