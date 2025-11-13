@@ -142,6 +142,34 @@
       "description": "Data engineering agent for ETL pipelines and analytics",
       "version": "1.0.0",
       "keywords": ["data-engineering", "etl", "analytics", "agent"]
+    },
+    {
+      "name": "performance-optimizer",
+      "source": "./skills/development/performance-optimizer",
+      "description": "Analyze and optimize code performance, identify bottlenecks, and suggest improvements",
+      "version": "1.0.0",
+      "keywords": ["performance", "optimization", "profiling", "bottleneck", "speed"]
+    },
+    {
+      "name": "environment-manager",
+      "source": "./skills/devops/environment-manager",
+      "description": "Manage development environments, configurations, and secrets across local, staging, and production",
+      "version": "1.0.0",
+      "keywords": ["environment", "configuration", "env-vars", "secrets", "dotenv"]
+    },
+    {
+      "name": "tech-writer",
+      "source": "./skills/documentation/tech-writer",
+      "description": "Technical documentation specialist - create docs, API references, user guides for technical and non-technical audiences",
+      "version": "1.0.0",
+      "keywords": ["documentation", "technical-writing", "user-guides", "api-docs", "communication"]
+    },
+    {
+      "name": "deployment-manager",
+      "source": "./skills/devops/deployment-manager",
+      "description": "Automated deployment orchestration with rollback, blue-green, and canary deployment strategies",
+      "version": "1.0.0",
+      "keywords": ["deployment", "automation", "rollback", "blue-green", "canary", "orchestration"]
     }
   ]
 }

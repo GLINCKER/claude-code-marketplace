@@ -1,6 +1,6 @@
 # GLINCKER Marketplace - Complete Feature Matrix
 
-## Agent Suites (19 Total)
+## Agent Suites (23 Total)
 
 ### Multi-Agent Coordination (Unique to GLINCKER)
 | Agent Suite | Agents | Description |
@@ -18,22 +18,26 @@
 | **Git Hooks Manager** | Pre-commit/pre-push automation | "Setup git hooks" |
 | **QA Engineer** | Test planning, regression analysis | "Create test plan for feature X" |
 
-### Development Agents (6)
+### Development Agents (8)
 | Agent | Capability | Quick Command |
 |-------|------------|---------------|
 | **Backend Architect** | API design, database schema | "Design REST API for e-commerce" |
 | **Frontend Specialist** | React/Vue/Next.js development | "Create dashboard components" |
+| **Performance Optimizer** | Code optimization, bottleneck detection | "Optimize performance of this module" |
 | **README Generator** | Project documentation | "Generate README" |
+| **Tech Writer** | Technical documentation, API docs | "Create API documentation" |
 | **Changelog Generator** | Keep a Changelog format | "Generate CHANGELOG from git" |
 | **API Connector** | 100+ API integrations | "Send Slack message to #channel" |
 | **Database Query** | Natural language SQL | "Show users who signed up last month" |
 
-### DevOps & Infrastructure (5)
+### DevOps & Infrastructure (7)
 | Agent | Capability | Quick Command |
 |-------|------------|---------------|
 | **Docker Wizard** | Optimized Dockerfiles | `/docker-setup` or "Generate Docker config" |
 | **K8s Generator** | Production Kubernetes manifests | `/k8s-setup` or "Create K8s setup" |
 | **CI/CD Pipeline Builder** | GitHub Actions, GitLab CI | "Generate GitHub Actions workflow" |
+| **Deployment Manager** | Blue-green, canary deployments | "Deploy to production with blue-green" |
+| **Environment Manager** | Environment config, secrets management | "Setup environment files for all environments" |
 | **DevOps Specialist** | Deployment automation | `/deploy staging` |
 | **Data Engineer** | ETL pipelines, data warehousing | "Design ETL pipeline" |
 
@@ -47,7 +51,7 @@
 
 | Feature | GLINCKER | Competitor | Advantage |
 |---------|----------|------------|-----------|
-| **Total Agents** | 19 | 16 | +3 more agents |
+| **Total Agents** | 23 | 16 | +7 more agents |
 | **Multi-Agent Coordination** | ✅ 5 parallel agents | ❌ None | **Unique** |
 | **Workflow Orchestration** | ✅ YAML-based chaining | ❌ None | **Unique** |
 | **Slash Commands** | ✅ 7 commands | ✅ 5 commands | +2 more |
@@ -269,5 +273,5 @@ test → security-scan → IF(all_pass) → deploy
 
 ---
 
-**GLINCKER: The Premium Agent Marketplace**
-*19 Specialized Agents | Multi-Agent Coordination | Workflow Orchestration | 100+ Integrations*
+**GLINCKER: Community-Driven Agent Marketplace**
+*23+ Specialized Agents | Multi-Agent Coordination | Workflow Orchestration | 100+ Integrations*

@@ -1,35 +1,38 @@
 # GLINCKER Claude Code Marketplace
 
-> The **Premium Agent Marketplace** - 19 specialized agents with multi-agent coordination, workflow orchestration, and enterprise automation
+> **Community-Driven Agent Marketplace** - A comprehensive collection of specialized agents, automation workflows, and developer productivity tools
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
-[![Agents](https://img.shields.io/badge/agents-19-brightgreen.svg)](skills/)
+[![Contributors Welcome](https://img.shields.io/badge/contributors-welcome-orange.svg)](docs/CONTRIBUTING.md)
+[![Agents](https://img.shields.io/badge/agents-23+-brightgreen.svg)](skills/)
 [![Commands](https://img.shields.io/badge/slash_commands-7-blue.svg)](.claude-commands/)
 
-## Why GLINCKER Beats the Competition
+## What GLINCKER Offers
 
-| Feature | GLINCKER | Others | Our Advantage |
-|---------|----------|--------|---------------|
-| **Total Agents** | **19** | 16 | +3 more agents |
-| **Multi-Agent Coordination** | **✓** 5 parallel agents | ✗ None | **Unique - 5x better reviews** |
-| **Workflow Orchestration** | **✓** YAML chaining | ✗ None | **Unique - automated pipelines** |
-| **Slash Commands** | **✓** 7 commands | ✓ 5 | +2 more quick commands |
-| **Natural Language** | **✓** DB + 100+ APIs | ✗ Limited | **10x more integrations** |
-| **Docker/K8s** | **✓** Production-ready | ✗ None | **Unique infrastructure tools** |
-| **CI/CD Pipelines** | **✓** GitHub + GitLab | ✗ None | **Unique automation** |
+A comprehensive marketplace of production-ready agents and tools designed to solve real developer pain points. Built by the community, for the community.
+
+| Category | What We Provide | How It Helps |
+|----------|-----------------|--------------|
+| **Multi-Agent Coordination** | 5 parallel agents for code review | Comprehensive analysis from security, performance, testing, architecture, and style perspectives |
+| **Workflow Orchestration** | YAML-based agent chaining | Automate complex pipelines with conditional logic and parallel execution |
+| **Quick Access** | 7 slash commands | Instant access to common development tasks |
+| **Integrations** | Database queries + 100+ APIs | Natural language interface to your entire stack |
+| **Infrastructure** | Docker, Kubernetes, CI/CD | Production-ready configurations and best practices |
+| **Full SDLC Coverage** | 23+ specialized agents | End-to-end support from development to deployment |
 
 **[See Complete Feature Matrix →](FEATURES.md)**
 
-## Overview
+## Why Choose GLINCKER
 
-GLINCKER is the most comprehensive agent marketplace with **19 production-ready agents** that work together through multi-agent coordination and workflow orchestration - capabilities not available anywhere else.
+**Comprehensive**: 23+ specialized agents covering every stage of development
+**Collaborative**: Multi-agent coordination for complex tasks
+**Automated**: Workflow orchestration to chain agents together
+**Production-Ready**: Battle-tested configurations and best practices
+**Open Source**: Community-driven with transparent development
+**Extensible**: Easy to add your own agents and workflows
 
-**What makes us unique:**
-- **Multi-agent coordination**: 5 specialized agents review code in parallel
-- **Workflow orchestration**: Chain agents with YAML configs and conditional logic
-- **Natural language**: Query databases and 100+ APIs using plain English
-- **Full SDLC coverage**: Development, testing, security, deployment, monitoring
+**We're always improving** - contributions welcome! See our [Contributing Guide](docs/CONTRIBUTING.md) to help make this marketplace even better.
 
 ## Architecture
 

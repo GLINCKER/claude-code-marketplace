@@ -1,0 +1,9 @@
+{
+  "name": "performance-optimizer",
+  "description": "Analyze and optimize code performance, identify bottlenecks, and suggest improvements",
+  "version": "1.0.0",
+  "author": "GLINCKER Team",
+  "license": "Apache-2.0",
+  "keywords": ["performance", "optimization", "profiling", "bottleneck", "speed"],
+  "skills": ["./SKILL.md"]
+}

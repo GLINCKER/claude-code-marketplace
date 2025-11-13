@@ -1,0 +1,9 @@
+{
+  "name": "environment-manager",
+  "description": "Manage development environments, configurations, and secrets across local, staging, and production",
+  "version": "1.0.0",
+  "author": "GLINCKER Team",
+  "license": "Apache-2.0",
+  "keywords": ["environment", "configuration", "env-vars", "secrets", "dotenv"],
+  "skills": ["./SKILL.md"]
+}
