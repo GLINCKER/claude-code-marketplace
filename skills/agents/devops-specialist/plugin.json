@@ -1,0 +1,9 @@
+{
+  "name": "devops-specialist",
+  "description": "DevOps agent for deployment and infrastructure automation",
+  "version": "1.0.0",
+  "author": "GLINCKER Team",
+  "license": "Apache-2.0",
+  "keywords": ["devops", "deployment", "infrastructure", "agent"],
+  "skills": ["./SKILL.md"]
+}

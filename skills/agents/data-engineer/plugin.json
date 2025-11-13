@@ -1,0 +1,9 @@
+{
+  "name": "data-engineer",
+  "description": "Data engineering agent for ETL pipelines and analytics",
+  "version": "1.0.0",
+  "author": "GLINCKER Team",
+  "license": "Apache-2.0",
+  "keywords": ["data-engineering", "etl", "analytics", "agent"],
+  "skills": ["./SKILL.md"]
+}

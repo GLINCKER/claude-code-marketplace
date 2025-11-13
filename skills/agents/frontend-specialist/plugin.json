@@ -1,0 +1,9 @@
+{
+  "name": "frontend-specialist",
+  "description": "Frontend specialist agent for React, Vue, and modern web development",
+  "version": "1.0.0",
+  "author": "GLINCKER Team",
+  "license": "Apache-2.0",
+  "keywords": ["frontend", "react", "vue", "ui", "agent"],
+  "skills": ["./SKILL.md"]
+}

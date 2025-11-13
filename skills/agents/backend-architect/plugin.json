@@ -1,0 +1,9 @@
+{
+  "name": "backend-architect",
+  "description": "Backend architecture agent for scalable API and database design",
+  "version": "1.0.0",
+  "author": "GLINCKER Team",
+  "license": "Apache-2.0",
+  "keywords": ["backend", "architecture", "api", "agent"],
+  "skills": ["./SKILL.md"]
+}

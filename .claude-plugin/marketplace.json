@@ -107,6 +107,41 @@
       "description": "Setup git hooks for pre-commit, pre-push automation",
       "version": "1.0.0",
       "keywords": ["git", "hooks", "pre-commit", "automation"]
+    },
+    {
+      "name": "qa-engineer",
+      "source": "./skills/agents/qa-engineer",
+      "description": "QA specialist agent for test planning and quality assurance",
+      "version": "1.0.0",
+      "keywords": ["qa", "testing", "quality-assurance", "agent"]
+    },
+    {
+      "name": "devops-specialist",
+      "source": "./skills/agents/devops-specialist",
+      "description": "DevOps agent for deployment and infrastructure automation",
+      "version": "1.0.0",
+      "keywords": ["devops", "deployment", "infrastructure", "agent"]
+    },
+    {
+      "name": "backend-architect",
+      "source": "./skills/agents/backend-architect",
+      "description": "Backend architecture agent for scalable API and database design",
+      "version": "1.0.0",
+      "keywords": ["backend", "architecture", "api", "agent"]
+    },
+    {
+      "name": "frontend-specialist",
+      "source": "./skills/agents/frontend-specialist",
+      "description": "Frontend specialist agent for React, Vue, and modern web development",
+      "version": "1.0.0",
+      "keywords": ["frontend", "react", "vue", "ui", "agent"]
+    },
+    {
+      "name": "data-engineer",
+      "source": "./skills/agents/data-engineer",
+      "description": "Data engineering agent for ETL pipelines and analytics",
+      "version": "1.0.0",
+      "keywords": ["data-engineering", "etl", "analytics", "agent"]
     }
   ]
 }

@@ -1,0 +1,9 @@
+{
+  "name": "qa-engineer",
+  "description": "QA specialist agent for test planning and quality assurance",
+  "version": "1.0.0",
+  "author": "GLINCKER Team",
+  "license": "Apache-2.0",
+  "keywords": ["qa", "testing", "quality-assurance", "agent"],
+  "skills": ["./SKILL.md"]
+}
