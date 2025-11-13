@@ -1,0 +1,9 @@
+{
+  "name": "hello-world",
+  "description": "Simple example skill demonstrating basic skill structure",
+  "version": "1.0.0",
+  "author": "GLINCKER Team",
+  "license": "Apache-2.0",
+  "keywords": ["example", "tutorial", "beginner"],
+  "skills": ["./SKILL.md"]
+}

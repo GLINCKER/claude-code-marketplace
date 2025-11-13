@@ -1,0 +1,9 @@
+{
+  "name": "workflow-composer",
+  "description": "Chain multiple skills together into automated workflows with conditional logic",
+  "version": "1.0.0",
+  "author": "GLINCKER Team",
+  "license": "Apache-2.0",
+  "keywords": ["automation", "workflow", "orchestration", "skill-chaining"],
+  "skills": ["./SKILL.md"]
+}

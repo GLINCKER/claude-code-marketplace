@@ -1,0 +1,9 @@
+{
+  "name": "readme-generator",
+  "description": "Generate comprehensive README files by analyzing project structure",
+  "version": "1.0.0",
+  "author": "GLINCKER Team",
+  "license": "Apache-2.0",
+  "keywords": ["documentation", "readme", "markdown"],
+  "skills": ["./SKILL.md"]
+}

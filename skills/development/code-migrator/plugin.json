@@ -1,0 +1,9 @@
+{
+  "name": "code-migrator",
+  "description": "Migrate legacy code to modern frameworks with automated refactoring",
+  "version": "1.0.0",
+  "author": "GLINCKER Team",
+  "license": "Apache-2.0",
+  "keywords": ["migration", "modernization", "refactoring", "legacy-code"],
+  "skills": ["./SKILL.md"]
+}

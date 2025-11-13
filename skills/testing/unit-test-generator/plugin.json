@@ -1,0 +1,9 @@
+{
+  "name": "unit-test-generator",
+  "description": "Generate comprehensive unit tests for multiple languages",
+  "version": "1.0.0",
+  "author": "GLINCKER Team",
+  "license": "Apache-2.0",
+  "keywords": ["testing", "unit-tests", "tdd"],
+  "skills": ["./SKILL.md"]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "api-connector",
+  "description": "Connect to 100+ popular APIs using natural language",
+  "version": "1.0.0",
+  "author": "GLINCKER Team",
+  "license": "Apache-2.0",
+  "keywords": ["api", "integration", "rest", "oauth"],
+  "skills": ["./SKILL.md"]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "pr-reviewer",
+  "description": "Autonomous AI-powered pull request reviewer with multi-agent analysis",
+  "version": "1.0.0",
+  "author": "GLINCKER Team",
+  "license": "Apache-2.0",
+  "keywords": ["devops", "pr-review", "code-review", "multi-agent"],
+  "skills": ["./SKILL.md"]
+}

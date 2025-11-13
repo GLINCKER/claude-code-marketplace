@@ -1,0 +1,9 @@
+{
+  "name": "database-query",
+  "description": "Natural language database queries with multi-database support and optimization",
+  "version": "1.0.0",
+  "author": "GLINCKER Team",
+  "license": "Apache-2.0",
+  "keywords": ["database", "sql", "query", "natural-language"],
+  "skills": ["./SKILL.md"]
+}
