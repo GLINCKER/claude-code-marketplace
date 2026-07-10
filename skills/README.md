@@ -82,6 +82,20 @@ Workflow automation and orchestration skills.
 - Monitoring setup
 - Alert management
 
+### [Integrations](integrations/)
+Skills for connecting external services and source-backed workflows.
+
+**Use cases:**
+- API integration
+- Database access
+- Social research
+- Approval-gated automation
+
+**Featured Skills:**
+- [api-connector](integrations/api-connector/SKILL.md) - Connect external APIs using natural language
+- [database-query](integrations/database-query/SKILL.md) - Query supported databases using natural language
+- [hermes-tweet](integrations/hermes-tweet/SKILL.md) - Research X/Twitter through Hermes Agent with gated actions
+
 ## Contributing a Skill
 
 Want to add your skill to the marketplace?
@@ -110,10 +124,10 @@ All skills in this marketplace meet these criteria:
 
 ```bash
 # Add the marketplace
-claude marketplace add https://github.com/GLINCKER/claude-code-marketplace
+/plugin marketplace add https://github.com/GLINCKER/claude-code-marketplace
 
 # Install a skill
-claude skill install readme-generator --from glincker-marketplace
+/plugin install readme-generator@glincker-marketplace
 ```
 
 ### Install Locally

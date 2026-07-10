@@ -46,6 +46,13 @@
       "keywords": ["api", "integration", "rest", "oauth"]
     },
     {
+      "name": "hermes-tweet",
+      "source": "./skills/integrations/hermes-tweet",
+      "description": "Use Hermes Agent for source-backed X/Twitter research and approval-gated actions",
+      "version": "1.0.0",
+      "keywords": ["hermes-agent", "xquik", "twitter", "research", "automation"]
+    },
+    {
       "name": "readme-generator",
       "source": "./skills/documentation/readme-generator",
       "description": "Generate comprehensive README files by analyzing project structure",
