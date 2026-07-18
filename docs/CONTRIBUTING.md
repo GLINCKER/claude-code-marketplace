@@ -100,13 +100,16 @@ What this skill cannot or should not do.
 Before submitting, test thoroughly:
 
 ```bash
-# Install your skill locally
-claude skill install ./skills/category/your-skill-name
+# Validate the marketplace manifest with Claude Code
+claude plugin validate .
 
-# Test it in Claude Code
-# Try edge cases
-# Verify error handling
+# Verify every marketplace entry, plugin manifest, and skill agrees
+node scripts/validate-marketplace.mjs
 ```
+
+Then add the local marketplace with `/plugin marketplace add ./`, install your
+plugin with `/plugin install your-skill-name@glincker-marketplace`, and test its
+documented workflows and error cases.
 
 ### 5. Submit a Pull Request
 
